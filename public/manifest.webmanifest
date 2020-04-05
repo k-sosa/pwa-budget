@@ -1,0 +1,10 @@
+{
+    "name": "Notetaker",
+    "short_name": "Notetaker",
+   
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+  }
+  
